@@ -18,8 +18,7 @@ To develop a scientific understanding of Earth's system and its response to natu
 | To predict impacts of changing hydrological cyle on human and biogeophysical systems  | | | | | 
 | To determine new ways to utilize remote sensing data to calibrate and validate models of the HMA system | | | | | 
 | To discover couplings and feedbacks between physical and human systems in the HMA region | | | | | 
-<hr>
-<hr>
+
 ### PI Arendt
  Validating a Glacier Melt Toolbox For High Mountain Asia Using a Remote-Sensing-Driven Data Integration Framework
 
