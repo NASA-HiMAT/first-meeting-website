@@ -3,8 +3,7 @@ layout: page
 title: Science Traceability Matrix (STM)
 permalink: /design/
 ---
-<hr>
-<hr>
+
 # NASA Earth System Science
 
 To develop a scientific understanding of Earth's system and its response to natural or human-induced changes, and to improve prediction of climate, weather, and natural hazards.
